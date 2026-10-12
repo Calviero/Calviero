@@ -1,60 +1,108 @@
 <div align="center">
 
-[![Visitas](https://komarev.com/ghpvc/?username=shodzery&label=Visitas&color=38BDF8&style=flat-square)](https://github.com/shodzery)&nbsp;
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0B0617,50:5B21B6,100:A855F7&height=230&section=header&text=CALVIERO&fontSize=72&fontColor=FFFFFF&fontAlignY=39&desc=Independent%20Developer%20%7C%20Calviero%20Studio&descSize=18&descAlignY=61&animation=fadeIn" alt="Calviero — Calviero Studio" />
+
+<a href="https://readme-typing-svg.demolab.com">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=19&duration=3200&pause=1100&color=C084FC&center=true&vCenter=true&width=600&height=45&lines=Fundador+de+Calviero+Studio;Creador+de+CalvieroDev;Desarrollo+web+%7C+Ciberseguridad;Una+idea.+Una+visi%C3%B3n.+Un+creador." alt="Fundador de Calviero Studio y creador de CalvieroDev" />
+</a>
+
+<br />
+
+[![GitHub](https://img.shields.io/badge/GitHub-Calviero-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Calviero)
+[![CalvieroDev](https://img.shields.io/badge/CalvieroDev-Sitio%20oficial-7C3AED?style=for-the-badge&logo=googlechrome&logoColor=white)](https://calvierodev.xyz/)
+
+<br />
+
+![Visitas](https://komarev.com/ghpvc/?username=Calviero&label=Visitas+al+perfil&color=7C3AED&style=flat-square)
 
 </div>
 
 ---
 
-## Proyectos
+## 01 · Sobre mí
 
-| Proyecto | Estado | Descripción |
-|---|---|---|
-| [**Shodzery Web Page**](https://shodzery.xyz) | **Activo** | Sitio oficial de Shodzery |
-| [**ShodHackTool**](https://github.shodzery.xyz) | **En Desarrollo** | Plataforma Open Source de ciberseguridad para organizar e instalar herramientas de hacking ético, investigación y auditorías autorizadas desde la terminal. |
+Soy **Calviero**, fundador y único desarrollador de **Calviero Studio**, un estudio personal e independiente centrado en el desarrollo de software, las experiencias digitales y la ciberseguridad.
 
+Creo, diseño y desarrollo mis ideas de principio a fin, con especial atención a la **seguridad, la innovación y la experiencia de usuario**.
 
----
-  
-  ## Stack
-
-<div align="left">
-
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
-![Tailwind](https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
-![Kali Linux](https://img.shields.io/badge/Kali%20Linux-557C94?style=flat-square&logo=kalilinux&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonwebservices&logoColor=white)
-
-</div>
+> **Una visión independiente. Un único creador. Un proyecto con propósito.**
 
 ---
 
-## GitHub
+## 02 · Proyecto principal
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com?user=shodzery&locale=es&mode=daily&theme=tokyonight&hide_border=true&border_radius=6&ring=38BDF8&fire=38BDF8&currStreakLabel=38BDF8" height="150" alt="Racha" />
-&nbsp;&nbsp;
-<img src="https://github-readme-stats.vercel.app/api?username=shodzery&show_icons=true&theme=tokyonight&hide_border=true&border_radius=6&icon_color=38BDF8&title_color=38BDF8&text_color=e2e8f0&count_private=true&locale=es" height="150" alt="Stats" />
-&nbsp;&nbsp;
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shodzery&layout=compact&theme=tokyonight&hide_border=true&border_radius=6&title_color=38BDF8&text_color=e2e8f0&locale=es" height="150" alt="Lenguajes más usados" />
+### [CALVIERODEV](https://calvierodev.xyz/)
+
+**Mi único proyecto oficial**
+
+[![Estado](https://img.shields.io/badge/Estado-En%20desarrollo-A855F7?style=flat-square)](https://calvierodev.xyz/)
+![Enfoque](https://img.shields.io/badge/Enfoque-Ciberseguridad-6D28D9?style=flat-square)
+![Alcance](https://img.shields.io/badge/Alcance-Internacional-4C1D95?style=flat-square)
+
+**CalvieroDev** es una comunidad internacional dedicada a la ciberseguridad y la tecnología. Su objetivo es reunir a personas interesadas en aprender, compartir conocimientos, debatir ideas y crecer dentro del mundo de la seguridad informática.
+
+**Diseño, desarrollo, dirección y mantenimiento:** Calviero.
+
+[**Explorar CalvieroDev →**](https://calvierodev.xyz/)
+
+</div>
+
+---
+
+## 03 · Tecnologías y herramientas
+
+<div align="center">
+
+**Lenguajes**
+
+![JavaScript](https://img.shields.io/badge/JavaScript-0D1117?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+![TypeScript](https://img.shields.io/badge/TypeScript-0D1117?style=for-the-badge&logo=typescript&logoColor=3178C6)
+![Python](https://img.shields.io/badge/Python-0D1117?style=for-the-badge&logo=python&logoColor=3776AB)
+
+**Desarrollo web**
+
+![Next.js](https://img.shields.io/badge/Next.js-0D1117?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![React](https://img.shields.io/badge/React-0D1117?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Node.js](https://img.shields.io/badge/Node.js-0D1117?style=for-the-badge&logo=nodedotjs&logoColor=339933)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-0D1117?style=for-the-badge&logo=tailwindcss&logoColor=06B6D4)
+
+**Infraestructura y seguridad**
+
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-0D1117?style=for-the-badge&logo=postgresql&logoColor=4169E1)
+![Docker](https://img.shields.io/badge/Docker-0D1117?style=for-the-badge&logo=docker&logoColor=2496ED)
+![Linux](https://img.shields.io/badge/Linux-0D1117?style=for-the-badge&logo=linux&logoColor=FCC624)
+![Kali Linux](https://img.shields.io/badge/Kali_Linux-0D1117?style=for-the-badge&logo=kalilinux&logoColor=557C94)
+![AWS](https://img.shields.io/badge/AWS-0D1117?style=for-the-badge&logo=amazonwebservices&logoColor=FF9900)
+
+</div>
+
+---
+
+## 04 · Actividad en GitHub
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=Calviero&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=C084FC&icon_color=A855F7&text_color=E2E8F0&count_private=true&locale=es" height="160" alt="Estadísticas de GitHub de Calviero" />
+<img src="https://streak-stats.demolab.com?user=Calviero&locale=es&mode=daily&theme=tokyonight&hide_border=true&background=0D1117&ring=A855F7&fire=C084FC&currStreakLabel=C084FC" height="160" alt="Racha de contribuciones de Calviero" />
+
+<br />
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Calviero&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=C084FC&text_color=E2E8F0&locale=es" height="155" alt="Lenguajes más utilizados en GitHub" />
+
 </div>
 
 ---
 
 <div align="center">
 
-[![GitHub](https://img.shields.io/badge/GitHub-shodzery-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/shodzery)&nbsp;
-[![Discord](https://img.shields.io/badge/Discord-sh0dzery-7289DA?style=flat-square&logo=discord&logoColor=white)](https://discord.com/users/1278184976386359303)&nbsp;
+### Código con propósito. Tecnología con visión.
 
-*"El código es como el arte — pero que funciona."*
+*«El código es como el arte, pero que funciona.»*
+
+**Calviero Studio · Creado y desarrollado por Calviero**
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0B0617,50:5B21B6,100:A855F7&height=110&section=footer" alt="" />
 
 </div>
