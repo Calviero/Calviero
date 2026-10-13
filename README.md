@@ -37,7 +37,7 @@ Creo, diseño y desarrollo mis ideas de principio a fin, con especial atención 
 
 **Mi único proyecto oficial**
 
-[![Estado](https://img.shields.io/badge/Estado-En%20Activo-A855F7?style=flat-square)](https://calvierodev.xyz/)
+[![Estado](https://img.shields.io/badge/Estado-%20Activo-A855F7?style=flat-square)](https://calvierodev.xyz/)
 ![Enfoque](https://img.shields.io/badge/Enfoque-Ciberseguridad-6D28D9?style=flat-square)
 ![Alcance](https://img.shields.io/badge/Alcance-Internacional-4C1D95?style=flat-square)
 
