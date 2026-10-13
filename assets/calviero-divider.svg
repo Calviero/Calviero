@@ -1,6 +1,0 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="1600" height="35" viewBox="0 0 1600 35" role="img" aria-label="Separador violeta">
-  <defs><linearGradient id="g"><stop stop-color="#A855F7" stop-opacity="0"/><stop offset=".43" stop-color="#7C3AED" stop-opacity=".5"/><stop offset=".5" stop-color="#D8B4FE"/><stop offset=".57" stop-color="#7C3AED" stop-opacity=".5"/><stop offset="1" stop-color="#A855F7" stop-opacity="0"/></linearGradient></defs>
-  <path d="M0 17.5 H1600" stroke="url(#g)" stroke-width="2"/>
-  <path d="M800 5 L812 17.5 L800 30 L788 17.5 Z" fill="#9F68EF" stroke="#DEC4FF" stroke-width="1.5"/>
-  <circle cx="762" cy="17.5" r="2" fill="#9F68EF"/><circle cx="838" cy="17.5" r="2" fill="#9F68EF"/>
-</svg>
